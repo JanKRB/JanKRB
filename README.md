@@ -15,7 +15,7 @@ Mainly using:
 - Desktop application development using **C#** (Only Basics)
 - Mobile application development using **Java and Kotlin**
 - Solving Data structure and algorithm questions in **Java and Python**
-- Web applicatung using **PHP and MySQL**
+- Web applications using **PHP and MySQL**
 
 ## ⚡ Do's for 2020 & 2021
 - Improving my skills in python
