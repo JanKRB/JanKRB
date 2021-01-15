@@ -11,7 +11,7 @@ I am Jan Ruhfus 😃. I am from North Rhine-Westphalia, Germany and currently do
 ## ⚡ Technologies
 Mainly using:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**
-- Making for **Relational Database Management Systems**
+- Planing and Creating **Database Structures**
 - Desktop application development using **C#** (Only Basics)
 - Mobile application development using **Java and Kotlin**
 - Solving Data structure and algorithm questions in **Java and Python**
