@@ -17,7 +17,7 @@ Mainly using:
 - Solving Data structure and algorithm questions in **Java and Python**
 - Web applications using **PHP and MySQL**
 
-## ⚡ Do's for 2020 & 2021
+## ⚡ Do's for 2021
 - Improving my skills in python
 - Learning more about database structures
 - Enhancing skills in mobile development
