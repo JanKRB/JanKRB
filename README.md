@@ -1,4 +1,4 @@
-<h2>WELCOME <CODERS/> 👋!</h2>
+<h2>WELCOME 👋!</h2>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Jan_Krb-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jan&#95;Krb)](https://twitter.com/Jan_Krb) 
 
@@ -9,13 +9,12 @@
 I am Jan Ruhfus 😃. I am from North Rhine-Westphalia, Germany and currently doing my school education as information technology assistant at the [TBS1](https://github.com/tbs1-bo) 🏫. I love to explore and learn about new things.
 
 ## ⚡ Technologies
-Mainly using:
+Technologies i'm familiar with:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**
-- Planing and Creating **Database Structures**
-- Desktop application development using **C#** (Only Basics)
-- Mobile application development using **Java and Kotlin**
-- Solving Data structure and algorithm questions in **Java and Python**
-- Web applications using **PHP and MySQL**
+- Databases **MariaDB & MySQL**
+- Desktop application development using **C#**
+- Mobile application development using **Kotlin**
+- Web applications using **PHP and Laravel**
 
 ## ⚡ Do's for 2021
 - Improving my skills in python
