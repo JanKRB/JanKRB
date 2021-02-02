@@ -6,7 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-janruhfus0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janruhfus0@gmail.com)](mailto:janruhfus0@gmail.com)
 
-I am Jan Ruhfus 😃. I am from North Rhine-Westphalia, Germany and currently doing my school education as information technology assistant at the [TBS1](https://github.com/tbs1-bo) 🏫. I love to explore and learn about new things.
+I am Jan Ruhfus 😃. I am from North Rhine-Westphalia, Germany and currently doing my school education as information technology assistant at the [TBS1](https://github.com/tbs1-bo). I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Technologies i'm familiar with:
