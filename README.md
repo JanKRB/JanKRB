@@ -17,7 +17,5 @@ Technologies i'm familiar with:
 - Web applications using **PHP and Laravel**
 
 ## ⚡ Do's for 2021
-- Improving my skills in python
-- Learning more about database structures
-- Enhancing skills in mobile development
+- Enhancing skills in mobile development & Angular
 - Contributing more in public repositories
