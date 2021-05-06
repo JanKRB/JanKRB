@@ -22,5 +22,6 @@
 - 🖥 &nbsp; Photoshop | Illustrator
 
 <h3>⚡ Do's for 2021</h3>
+
 - 📱 &nbsp; Enhancing skills in mobile development & Angular
 - 📢 &nbsp; Contributing more in public repositories
