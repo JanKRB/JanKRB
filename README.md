@@ -6,16 +6,21 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-janruhfus0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janruhfus0@gmail.com)](mailto:janruhfus0@gmail.com)
 
-I am Jan Ruhfus 😃. I am from North Rhine-Westphalia, Germany and currently doing my school education as information technology assistant at the [TBS1](https://github.com/tbs1-bo). I love to explore and learn about new things.
+<h3> 👨🏻‍💻 About Me </h3>
 
-## ⚡ Technologies
-Technologies i'm familiar with:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**
-- Databases **MariaDB & MySQL**
-- Desktop application development using **C#**
-- Mobile application development using **Kotlin**
-- Web applications using **PHP and Laravel**
+- 🎓 &nbsp; Studying IT Assistent @ Technische Berufliche Schule 1
+- 💼 &nbsp; Hobby developer
+- 👥 &nbsp; Leader of Krb Development (Voluntary software developer team)
 
-## ⚡ Do's for 2021
-- Enhancing skills in mobile development & Angular
-- Contributing more in public repositories
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | PHP | Python | C#
+- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | Bootstrap
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Git | Markdown
+- 🖥 &nbsp; Photoshop | Illustrator
+
+<h3>⚡ Do's for 2021</h3>
+- 📱 &nbsp; Enhancing skills in mobile development & Angular
+- 📢 &nbsp; Contributing more in public repositories
