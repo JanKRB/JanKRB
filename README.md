@@ -25,7 +25,7 @@
 
 ------
 
-<h3>📞 Conact me</h3>
+<h3>📞 Contact me</h3>
 <br>
 
 <a href="https://twitter.com/jan_krb"><img src="https://twemoji.twitter.com/content/dam/twemoji-twitter/Twitter_Social_Icon_Circle_Color.png.twimg.2560.png" width="30" height="30" /></a>
