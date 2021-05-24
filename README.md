@@ -14,6 +14,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | Bootstrap
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Markdown
+- 🐳 &nbsp; Docker | Kubernetes | VMWare
 - 🖥 &nbsp; Photoshop | Illustrator
 
 ------
