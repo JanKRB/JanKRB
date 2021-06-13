@@ -13,17 +13,17 @@
 - 💻 &nbsp; Java | PHP | Python | C#
 - 🌐 &nbsp; HTML | VueJS | JavaScript
 - 👁️ &nbsp; CSS | SCSS | Tailwind CSS | Bootstrap
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp; MySQL | MSSQL | MariaDB | MongoDB
 - 🔧 &nbsp; Git | Markdown
-- 🐳 &nbsp; Docker | Kubernetes | VMWare
+- 🐳 &nbsp; Docker | Kubernetes | VirtualBox | VMWare
 - 🖥 &nbsp; Photoshop | Illustrator
 
 ------
 
 <h3>⚡ Do's for 2021</h3>
 
-- 📱 &nbsp; Enhancing skills in mobile development & Angular
 - 📢 &nbsp; Contributing more in public repositories
+- 📱 &nbsp; Improving frontend skills
 
 ------
 
