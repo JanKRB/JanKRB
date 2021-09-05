@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | PHP | Python | C#
-- 🌐 &nbsp; HTML | VueJS | JavaScript
+- 🌐 &nbsp; HTML | VueJS | NuxtJS | JavaScript
 - 👁️ &nbsp; CSS | SCSS | Tailwind CSS | Bootstrap
 - 🛢 &nbsp; MySQL | MSSQL | MariaDB | MongoDB
 - 🔧 &nbsp; Git | Markdown
