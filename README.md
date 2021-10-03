@@ -14,8 +14,8 @@
 - 💻 &nbsp; Java | PHP | Python | C#
 - 🌐 &nbsp; HTML | VueJS | NuxtJS | JavaScript
 - 👁️ &nbsp; CSS | SCSS | Tailwind CSS | Bootstrap
-- 🛢 &nbsp; MySQL | MSSQL | MariaDB | MongoDB
-- 🔧 &nbsp; Git | Markdown
+- 🛢 &nbsp; MySQL | MSSQL | MariaDB | Postgres
+- 🔧 &nbsp; Git | LaTex
 - 🐳 &nbsp; Docker | Kubernetes | VirtualBox | VMWare
 - 🖥 &nbsp; Photoshop | Illustrator
 
