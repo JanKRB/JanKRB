@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Studying IT Assistent @ Technische Berufliche Schule 1
 - 💼 &nbsp; Hobby developer
 - 👥 &nbsp; Leader of Krb Development (Voluntary software developer team)
-- 👔 Full-Stack Web-Developer @ Belarion GmbH
+- 👔 Full-Stack Web-Developer @ aventini GmbH
 
 ------
 
