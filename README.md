@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying IT Assistent @ Technische Berufliche Schule 1
-- 💼 &nbsp; Hobby developer
 - 👥 &nbsp; Leader of Krb Development (Voluntary software developer team)
 - 👔 &nbsp; Full-Stack Web-Developer @ aventini GmbH
 
