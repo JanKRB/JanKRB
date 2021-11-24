@@ -20,10 +20,10 @@
 
 ------
 
-<h3>⚡ Do's for 2021</h3>
+<h3>⚡ Do's for 2021/22</h3>
 
 - 📢 &nbsp; Contributing more in public repositories
-- 📱 &nbsp; Improving frontend skills
+- 🐳 &nbsp; Improving skills in kubernetes & docker
 
 ------
 
