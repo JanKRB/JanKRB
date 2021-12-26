@@ -16,7 +16,6 @@
 - 🛢 &nbsp; MySQL | MSSQL | MariaDB | Postgres
 - 🔧 &nbsp; Git | LaTex
 - 🐳 &nbsp; Docker | Kubernetes | VirtualBox | VMWare
-- 🖥 &nbsp; Photoshop | Illustrator
 
 ------
 
