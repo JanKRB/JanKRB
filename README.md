@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying IT Assistent @ Technische Berufliche Schule 1
-- 👥 &nbsp; Leader of Krb Development (Voluntary software developer team)
+- 🎓 &nbsp; IT Assistent in training @ Technische Berufliche Schule 1
+- 👥 &nbsp; Leader of KrbDevelopment (Voluntary software developer team)
 - 👔 &nbsp; Full-Stack Web-Developer @ aventini GmbH
 
 ------
