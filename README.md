@@ -24,6 +24,8 @@
 
 - 📢 &nbsp; Contributing more in public repositories
 - 🐳 &nbsp; Improving skills in kubernetes & docker
+- 🌐 &nbsp; Training React & React Native skills
+- 💻 &nbsp; Learn Symfony & build atleast one public software
 
 ------
 
