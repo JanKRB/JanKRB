@@ -4,7 +4,6 @@
 
 - 🎓 &nbsp; IT assistent in training @ Technische Berufliche Schule 1
 - 👥 &nbsp; Leader of KrbDevelopment (Voluntary software developer team)
-- 👔 &nbsp; Full-Stack Web-Developer @ aventini GmbH
 
 ------
 
