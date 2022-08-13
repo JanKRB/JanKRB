@@ -30,6 +30,4 @@
 <h3>📞 Contact me</h3>
 <br>
 
-<a href="https://twitter.com/jan_krb"><img src="https://twemoji.twitter.com/content/dam/twemoji-twitter/Twitter_Social_Icon_Circle_Color.png.twimg.2560.png" width="30" height="30" /></a>
-<a href="https://instagram.com/jan.krb"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="30" height="30" /></a>
 <a href="https://www.linkedin.com/in/jan-ruhfus-4003a51ba/"><img src="https://www.gl-it.ch/Portals/0/EasyDNNnews/151/img-174857.png" width="30" height="30" /></a>
