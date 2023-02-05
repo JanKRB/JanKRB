@@ -4,6 +4,7 @@
 
 - 🎓 &nbsp; IT assistent in training @ Technische Berufliche Schule 1
 - 👥 &nbsp; Leader of KrbDevelopment (Voluntary software developer team)
+- 🚀 CTO @ @GeevooDE
 
 ------
 
@@ -15,15 +16,6 @@
 - 🛢 &nbsp; MySQL | MSSQL | MariaDB | Postgres
 - 🔧 &nbsp; Git | LaTex
 - 🐳 &nbsp; Docker | Kubernetes | VirtualBox | VMWare
-
-------
-
-<h3>⚡ Do's for 2021/22</h3>
-
-- 📢 &nbsp; Contributing more in public repositories
-- 🐳 &nbsp; Improving skills in kubernetes & docker
-- 🌐 &nbsp; Training React & React Native skills
-- 💻 &nbsp; Learn Symfony & build atleast one public software
 
 ------
 
