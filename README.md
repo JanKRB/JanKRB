@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; IT assistent in training @ Technische Berufliche Schule 1
+- 🎓 &nbsp; Trained full-stack developer
 - 👥 &nbsp; Leader of KrbDevelopment (Voluntary software developer team)
-- 🚀 CTO @ @GeevooDE
+- 🚀 &nbsp; CTO @ [Geevoo](https://www.geevoo.de)
 
 ------
 
@@ -12,10 +12,10 @@
 
 - 💻 &nbsp; Java | PHP | Python | C#
 - 🌐 &nbsp; HTML | VueJS | NuxtJS | JavaScript
+- 📱 &nbsp; React Native | iOS-Native | Android-Native (Java & Kotlin)
 - 👁️ &nbsp; CSS | SCSS | Tailwind CSS | Bootstrap
 - 🛢 &nbsp; MySQL | MSSQL | MariaDB | Postgres
-- 🔧 &nbsp; Git | LaTex
-- 🐳 &nbsp; Docker | Kubernetes | VirtualBox | VMWare
+- 🔧 &nbsp; Git | Docker | Kubernetes | VMWare
 
 ------
 
